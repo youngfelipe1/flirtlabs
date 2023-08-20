@@ -1,4 +1,5 @@
-# FlirtLabs ![Logo](flirtlabsLogo.png)
+# FlirtLabs 
+![Logo](/flirtlabsLogo.jpeg)
 
 ## Description
 
